@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="801">
+	<kit name="h3d_aces_switcher" restart="YES">
+		<source target="h3d_aces_switcher/index.CFG">index.CFG</source>
+		<source target="h3d_aces_switcher/scripts/ocio_aces_1.3.py">scripts/ocio_aces_1.3.py</source>
+		<source target="h3d_aces_switcher/scripts/ocio_nuke_default.py">scripts/ocio_nuke_default.py</source>
+	</kit>
+	<message button="Help">h3d_aces_switcher Kit installation complete.</message>
+</package>
