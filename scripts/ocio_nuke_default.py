@@ -10,6 +10,7 @@
 
 import lx
 import modo
+
 try:
     # change preferences settings
     lx.eval('pref.value colormanagement.default_ocio_config nuke-default')
